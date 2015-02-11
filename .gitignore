@@ -1,0 +1,10 @@
+# IDE
+.idea
+
+# Generated
+bin/
+vendor/
+.bundle/
+
+# OS
+.DS_Store
